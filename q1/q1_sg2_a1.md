@@ -24,5 +24,6 @@ graph TD
   D --> Yes --> G[Take into account how the quantity of each item/s the customer bought into spreadsheet]
   G --> H[Log into the spreadsheet]
   H --> F[END])
+```
   
   
