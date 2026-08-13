@@ -14,15 +14,15 @@ Possible subproblems:
 | Some students are indecisive on what to eat. | Pattern Recognition | Present a menu for students to decide what to eat beforehand. |
 | Cashiers have to manually calculate orders and change | Decomposition | Provide calculators to the cashiers; lessening the burden from them manually subtracting or adding orders to just inputting numbers into a calculator. |
 | Cashiers cannot monitor items that need restocking | Algorithm Design | Before the transaction finalizes, cashiers first have to log what item a customer buys into a spreadsheet. Therefore, in some way, cashiers can keep track of which items maybe running low on stock. |
-```mermaid
+
+mermaid
 graph TD
-  A([start]) --> B[Sub-problem; Cashiers cannot monitor items that need restocking]
-  B --> C[/Sell item/s to customer/]
-  C --> D{/Did the customer buy more than one item?/}
-  D --> No -->E[Simply log the item bought into the spreadsheet.]
+  A([START]) --> B[Sub-problem; Cashiers cannot monitor items that need restocking] 
+  B --> C[/Sell item/s to customer/] 
+  C --> D{/Did the customer buy more than one item?/} 
+  D -- No -->E[Simply log the item bought into the spreadsheet.] 
   E --> F([END])
-  D --> Yes --> G[Take into account how the quantity of each item/s the customer bought into spreadsheet]
-  G --> H[Log into the spreadsheet]
-  H --> F([END])
-```
-  
+
+  D -- Yes --> G[Take into account how the quantity of each item/s the customer bought into spreadsheet] 
+  G --> H[Log into the spreadsheet] 
+  H --> F([END]) 
