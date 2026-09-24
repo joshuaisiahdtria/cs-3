@@ -1,0 +1,13 @@
+class Hero:
+    def __init__(self,name,health=100):
+        self.health = health
+        self.name = name
+    def take_damage(self,amount):
+        self.health = self.health - amount
+        print(self.name,"has",self.health,"hp left.")
+        
+Arthur = Hero("Arthur")
+Morgana = Hero("Morgana")
+
+Arthur.take_damage(10)
+Morgana.take_damage(0)
