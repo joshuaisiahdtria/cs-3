@@ -2,4 +2,6 @@
 Looking forward to this A.Y!  
 # FA LINKS  
 FA1 - https://github.com/joshuaisiahdtria/cs-3/blob/main/q1/q1_sg2_a1.md  
-FA2
+FA2 - https://github.com/joshuaisiahdtria/cs-3/blob/main/q1/q1_sg2_a3  
+FA 3 and 4 - found in k-hub  
+FA5 - 
