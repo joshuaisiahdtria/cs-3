@@ -1,2 +1,5 @@
 # I am Joshua Tria of 9-Samat, CN-#16
-Looking forward to this A.Y!
+Looking forward to this A.Y!  
+# FA LINKS  
+FA1 - https://github.com/joshuaisiahdtria/cs-3/blob/main/q1/q1_sg2_a1.md  
+FA2
