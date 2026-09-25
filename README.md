@@ -9,6 +9,6 @@ FA6 - https://github.com/joshuaisiahdtria/cs-3/blob/main/q1/q1_sg6_samat_tria
 FA7 - https://github.com/joshuaisiahdtria/cs-3/blob/main/q1/q1_sg7_samat_tria
 ---  
 # Sample Codes
-Tusok-tusok - https://github.com/joshuaisiahdtria/cs-3/blob/main/q1/tusok_tusok_samplecode.py
+Tusok-tusok - https://github.com/joshuaisiahdtria/cs-3/blob/main/q1/tusok_tusok_samplecode.py  
 myCar - https://github.com/joshuaisiahdtria/cs-3/blob/main/q1/q1_car_samat_tria  
 Class Codes - https://github.com/joshuaisiahdtria/cs-3/blob/main/q1/classcodes
