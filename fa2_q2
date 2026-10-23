@@ -25,6 +25,7 @@ regular_patient = Patient("Juan Dela Cruz", 15000)
 senior_patient = SeniorPatient("Maria Santos", 15000)
 philHealth_patient = PhilHealthPatient("Pedro Reyes", 15000)
 
+
 print("Hospital Billing System")
 print("-----------------------")
 for patient in [regular_patient, senior_patient, philHealth_patient]:
