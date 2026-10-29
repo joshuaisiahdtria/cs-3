@@ -1,0 +1,26 @@
+# a. Create three classes: Car, Boat, and Drone with a move() method
+class Car:
+    def move(self):
+        print("The car drives on the road.")
+
+class Boat:
+    def move(self):
+        print("The boat sails on water.")
+
+class Drone:
+    def move(self):
+        print("The drone flies in the sky.")
+
+# b. Define the start_trip function taking a vehicle parameter
+def start_trip(vehicle):
+    vehicle.move()
+
+# c. Create one object of each class
+my_car = Car()
+my_boat = Boat()
+my_drone = Drone()
+
+# d. Call the start_trip() method for each object
+start_trip(my_car)
+start_trip(my_boat)
+start_trip(my_drone)
